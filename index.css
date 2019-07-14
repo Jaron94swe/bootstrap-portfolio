@@ -1,0 +1,88 @@
+body{
+    background-image: url("gravel.png");
+    width: 950px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100px;  
+}
+
+#Header { 
+    overflow: auto;
+}
+h1 {
+    background-color: teal;
+    width: 30%;
+    display: inline;
+}
+img {
+    height: 150px;
+    padding: 20px
+}
+p {
+    background-color:white;
+    color: black;
+    line-height: 2;
+}
+
+ul {
+     float: right;
+     padding: 5px;
+     margin: 5px;
+     font-size: 2;
+}
+
+.white-box {
+    background-color: white;
+    padding:15px 15px;
+    overflow: auto; 
+}
+
+h2 {
+    color: teal;
+    font-size: 30px;
+     border-bottom: solid 2px gray;
+     border-width: 100%
+     padding: 15px 0;
+    margin-top: 0;
+}
+
+footer {
+    clear: both;
+font-size: 15px;
+margin-right: auto;
+margin-left: auto; 
+background-color: #666666;
+border-top: solid 5px teal;
+padding-top:  15px;
+text-align: center;
+}
+
+.txtb {
+    width:950px;
+}
+
+button {
+    color: teal
+}
+
+img {
+    height: 150px;
+}
+
+.container {
+    width: 100%;
+    overflow: auto;
+}
+
+.img.container {
+    display: block;
+ 
+    width: 400px;
+    padding:20px 20px;
+}
+
+.img.container2 {
+    display: block;
+    width: 400px;
+    padding: 20px 20px;
+}
